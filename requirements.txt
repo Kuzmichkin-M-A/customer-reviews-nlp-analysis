@@ -1,0 +1,12 @@
+# требуется дополнительная установка следующих ресурсов:
+# python -m nltk.downloader stopwords wordnet punkt punkt_tab
+
+streamlit
+pandas
+numpy
+nltk
+scikit-learn
+wordcloud
+matplotlib
+plotly
+vaderSentiment
