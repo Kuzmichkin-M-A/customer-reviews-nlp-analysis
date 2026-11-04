@@ -1,0 +1,5 @@
+﻿Language,Method,N,Accuracy,Macro_F1_4_classes
+en,Original_VADER,24,0.7083,0.5912
+en,V2,24,0.875,0.8722
+ru,Original_VADER,24,0.1667,0.0714
+ru,V2,24,0.8333,0.8474

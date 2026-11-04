@@ -1,0 +1,49 @@
+﻿Language,Review_Text,Rating,Expected,Original_VADER,V2
+en,The service was excellent.,1,Positive,Positive,Positive
+en,The food was delicious.,5,Positive,Positive,Positive
+en,The staff were friendly and helpful.,4,Positive,Positive,Positive
+en,The room was clean and comfortable.,5,Positive,Positive,Positive
+en,Great quality and great value.,4,Positive,Positive,Positive
+en,I love this place.,5,Positive,Positive,Positive
+en,The service was terrible.,5,Negative,Negative,Negative
+en,The product is broken and useless.,1,Negative,Negative,Negative
+en,The staff were rude.,2,Negative,Negative,Negative
+en,I hate the dirty room.,1,Negative,Negative,Negative
+en,The food was disgusting.,2,Negative,Negative,Negative
+en,The service is not good.,2,Negative,Negative,Negative
+en,The shop opens at nine.,3,Neutral,Neutral,Neutral
+en,I visited the park on Monday.,4,Neutral,Neutral,Neutral
+en,The order contains two items.,3,Neutral,Neutral,Neutral
+en,We arrived at the hotel.,3,Neutral,Neutral,Neutral
+en,The food was delicious but the service was terrible.,3,Mixed,Negative,Mixed
+en,Great staff but a disgusting room.,2,Mixed,Negative,Mixed
+en,I love the food but hate the noise.,3,Mixed,Negative,Mixed
+en,The product is good but the delivery is awful.,3,Mixed,Negative,Mixed
+en,The package arrived three weeks late.,1,Negative,Neutral,Neutral
+en,What a brilliant way to ruin our holiday.,1,Negative,Positive,Mixed
+en,The queue moved at a snail's pace.,1,Negative,Neutral,Neutral
+en,It was worth every penny.,5,Positive,Positive,Positive
+ru,Отличное обслуживание.,1,Positive,Neutral,Positive
+ru,Еда вкусная и свежая.,5,Positive,Neutral,Positive
+ru,Персонал вежливый.,4,Positive,Neutral,Positive
+ru,В помещении чисто и уютно.,5,Positive,Neutral,Positive
+ru,Качественный товар.,4,Positive,Neutral,Positive
+ru,Спасибо! Рекомендую.,5,Positive,Neutral,Positive
+ru,Ужасное обслуживание.,5,Negative,Neutral,Negative
+ru,Персонал грубый.,1,Negative,Neutral,Negative
+ru,В помещении грязно.,2,Negative,Neutral,Negative
+ru,Доставка опоздала.,1,Negative,Neutral,Negative
+ru,Не рекомендую.,2,Negative,Neutral,Negative
+ru,Не стоит своих денег.,2,Negative,Neutral,Negative
+ru,Магазин открывается в девять.,3,Neutral,Neutral,Neutral
+ru,Заказ содержит два товара.,3,Neutral,Neutral,Neutral
+ru,Мы приехали в понедельник.,4,Neutral,Neutral,Neutral
+ru,Это филиал на набережной.,3,Neutral,Neutral,Neutral
+ru,Еда вкусная но персонал грубый.,3,Mixed,Neutral,Mixed
+ru,Хорошее обслуживание но в помещении грязно.,2,Mixed,Neutral,Mixed
+ru,Товар качественный но доставка опоздала.,3,Mixed,Neutral,Mixed
+ru,Вкусный кофе но грубый официант.,3,Mixed,Neutral,Mixed
+ru,Ждали долговато.,2,Negative,Neutral,Neutral
+ru,Официант даже не посмотрел в нашу сторону.,1,Negative,Neutral,Neutral
+ru,Цены кусаются.,1,Negative,Neutral,Neutral
+ru,Пальчики оближешь.,5,Positive,Neutral,Neutral

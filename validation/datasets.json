@@ -1,0 +1,50 @@
+[
+  {
+    "File": "test_reviews_ru_5000.csv",
+    "Read": {
+      "encoding": "utf-8-sig",
+      "separator": "','"
+    },
+    "Validation": {
+      "input": 5000,
+      "kept": 5000,
+      "removed_text": 0,
+      "invalid_ratings": 0,
+      "invalid_dates": 0,
+      "repeated_texts_kept": 1838
+    },
+    "Mentions": 7170,
+    "Topics": 6,
+    "Sentiment": {
+      "Positive": 2163,
+      "Neutral": 1424,
+      "Negative": 1363,
+      "Mixed": 50
+    },
+    "Seconds": 6.49
+  },
+  {
+    "File": "DisneylandReviews.csv",
+    "Read": {
+      "encoding": "cp1252",
+      "separator": "','"
+    },
+    "Validation": {
+      "input": 42656,
+      "kept": 42656,
+      "removed_text": 0,
+      "invalid_ratings": 0,
+      "invalid_dates": 0,
+      "repeated_texts_kept": 24
+    },
+    "Mentions": 110191,
+    "Topics": 6,
+    "Sentiment": {
+      "Mixed": 22336,
+      "Positive": 18954,
+      "Negative": 905,
+      "Neutral": 461
+    },
+    "Seconds": 207.05
+  }
+]

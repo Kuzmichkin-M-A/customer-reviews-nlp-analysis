@@ -1,0 +1,19 @@
+{
+  "Model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "Mode": "local_files_only, HF_HUB_OFFLINE=1",
+  "Reviews": 60,
+  "Languages": [
+    "en",
+    "ru"
+  ],
+  "Topics": {
+    "0": "Attractions and entertainment: day / like / not",
+    "1": "Еда и напитки: не / ед / нормальн",
+    "2": "Attractions and entertainment: disneyland / ride / not",
+    "3": "Очереди и ожидание: почт не / ждат почт / почт",
+    "4": "Обслуживание: друз / приветлив / персона приветлив",
+    "5": "Чистота: совет / всем / всем совет"
+  },
+  "Seconds": 13.3,
+  "Note": "Execution check only; no claim of improved clustering quality."
+}

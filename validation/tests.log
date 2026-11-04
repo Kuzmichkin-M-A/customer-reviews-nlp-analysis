@@ -1,0 +1,28 @@
+test_english_demo (test_app.AppTests.test_english_demo) ... 2026-11-04 21:51:28.802 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_russian_demo_and_filters (test_app.AppTests.test_russian_demo_and_filters) ... 2026-11-04 21:51:31.028 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_source_quotes_and_feedback (test_app.AppTests.test_source_quotes_and_feedback) ... 2026-11-04 21:51:33.080 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_text_only_all_aspects_hidden (test_app.AppTests.test_text_only_all_aspects_hidden) ... 2026-11-04 21:51:34.701 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-04 21:51:34.701 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-04 21:51:34.701 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-04 21:51:34.701 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-04 21:51:34.701 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-04 21:51:34.701 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_encoding_separator_and_mapping (test_core.ImportTests.test_encoding_separator_and_mapping) ... ok
+test_optional_fields_and_stable_source_rows (test_core.ImportTests.test_optional_fields_and_stable_source_rows) ... ok
+test_safe_csv (test_core.ImportTests.test_safe_csv) ... ok
+test_text_only_and_empty_errors (test_core.ImportTests.test_text_only_and_empty_errors) ... ok
+test_aspect_locality_and_mixed (test_core.NLPTests.test_aspect_locality_and_mixed) ... ok
+test_cluster_edges_and_determinism (test_core.NLPTests.test_cluster_edges_and_determinism) ... ok
+test_editor_merge_hide_and_recount (test_core.NLPTests.test_editor_merge_hide_and_recount) ... ok
+test_rating_independence_and_russian (test_core.NLPTests.test_rating_independence_and_russian) ... ok
+test_no_fabricated_findings (test_core.ReportingTests.test_no_fabricated_findings) ... ok
+test_periods_alerts_and_missing_denominator (test_core.ReportingTests.test_periods_alerts_and_missing_denominator) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 6.705s
+
+OK

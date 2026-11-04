@@ -1,0 +1,13 @@
+﻿Language,Review_Text,Expected,Predicted
+en,The food was delicious but the staff were rude.,food:Positive|service:Negative,food:Positive|service:Negative
+en,The room was clean.,cleanliness:Positive,cleanliness:Positive
+en,The product is broken.,quality:Negative,quality:Negative
+en,The delivery is excellent.,delivery:Positive,delivery:Positive
+en,The service is not good.,service:Negative,service:Negative
+en,The food was terrible.,food:Negative,food:Negative
+ru,Еда вкусная но персонал грубый.,food:Positive|service:Negative,food:Positive|service:Negative
+ru,В помещении чисто.,cleanliness:Positive,cleanliness:Positive
+ru,Товар сломался.,quality:Negative,quality:Negative
+ru,Доставка опоздала.,delivery:Negative,delivery:Negative
+ru,Не стоит своих денег.,price:Negative,price:Negative
+ru,Обслуживание отличное.,service:Positive,service:Positive
