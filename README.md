@@ -1,16 +1,10 @@
-# ReviewLens — учебный прототип v2
+# ReviewLens — прототип v2
 
 Локальное Streamlit-приложение для анализа английских и русских отзывов. Основа исходного MVP сохранена: Pandas, NLP, TF-IDF, MiniBatchKMeans, Plotly и WordCloud. Нет отдельного сервера приложений, базы данных, аккаунтов или интеграций с площадками.
 
 ## Запуск
 
-Нужен Python 3.10–3.13; проверено на Python 3.12 в Windows. Распакуйте архив в обычную папку. В Windows запустите `start.cmd`: он создаст `.venv`, установит базовые библиотеки и откроет локальное приложение. При первой установке нужен интернет. Если установка прервалась, выполните команды вручную:
-
-```powershell
-py -3 -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe -m streamlit run app_.py --server.address=127.0.0.1
-```
+Нужен Python 3.10–3.13; проверено на Python 3.12 в Windows. Распакуйте архив в обычную папку. 
 
 Адрес обычно `http://127.0.0.1:8501`. Для остановки нажмите Ctrl+C в окне запуска. Для Linux/macOS замените путь к Python на `.venv/bin/python`. Никаких загрузок корпусов NLTK не требуется.
 
