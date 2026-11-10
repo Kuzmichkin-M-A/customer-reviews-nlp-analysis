@@ -1,0 +1,49 @@
+Language,Review_Text,Rating,Expected
+en,The service was excellent.,1,Positive
+en,The food was delicious.,5,Positive
+en,The staff were friendly and helpful.,4,Positive
+en,The room was clean and comfortable.,5,Positive
+en,Great quality and great value.,4,Positive
+en,I love this place.,5,Positive
+en,The service was terrible.,5,Negative
+en,The product is broken and useless.,1,Negative
+en,The staff were rude.,2,Negative
+en,I hate the dirty room.,1,Negative
+en,The food was disgusting.,2,Negative
+en,The service is not good.,2,Negative
+en,The shop opens at nine.,3,Neutral
+en,I visited the park on Monday.,4,Neutral
+en,The order contains two items.,3,Neutral
+en,We arrived at the hotel.,3,Neutral
+en,The food was delicious but the service was terrible.,3,Mixed
+en,Great staff but a disgusting room.,2,Mixed
+en,I love the food but hate the noise.,3,Mixed
+en,The product is good but the delivery is awful.,3,Mixed
+en,The package arrived three weeks late.,1,Negative
+en,What a brilliant way to ruin our holiday.,1,Negative
+en,The queue moved at a snail's pace.,1,Negative
+en,It was worth every penny.,5,Positive
+ru,Отличное обслуживание.,1,Positive
+ru,Еда вкусная и свежая.,5,Positive
+ru,Персонал вежливый.,4,Positive
+ru,В помещении чисто и уютно.,5,Positive
+ru,Качественный товар.,4,Positive
+ru,Спасибо! Рекомендую.,5,Positive
+ru,Ужасное обслуживание.,5,Negative
+ru,Персонал грубый.,1,Negative
+ru,В помещении грязно.,2,Negative
+ru,Доставка опоздала.,1,Negative
+ru,Не рекомендую.,2,Negative
+ru,Не стоит своих денег.,2,Negative
+ru,Магазин открывается в девять.,3,Neutral
+ru,Заказ содержит два товара.,3,Neutral
+ru,Мы приехали в понедельник.,4,Neutral
+ru,Это филиал на набережной.,3,Neutral
+ru,Еда вкусная но персонал грубый.,3,Mixed
+ru,Хорошее обслуживание но в помещении грязно.,2,Mixed
+ru,Товар качественный но доставка опоздала.,3,Mixed
+ru,Вкусный кофе но грубый официант.,3,Mixed
+ru,Ждали долговато.,2,Negative
+ru,Официант даже не посмотрел в нашу сторону.,1,Negative
+ru,Цены кусаются.,1,Negative
+ru,Пальчики оближешь.,5,Positive
