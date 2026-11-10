@@ -96,7 +96,5 @@ TF-IDF + MiniBatchKMeans остаётся базовым режимом. Мак�
 - `nlp_.py` — очистка, тональность, темы, биграммы, облако.
 - `aspects.py` — словари аспектов, фрагменты, редактор, статистика.
 - `reporting.py` — сводка и периоды.
-- `CHANGES.md` — соответствие Excel и принятые ограничения.
-- `validation/RESULTS.md` — результаты проверок и замечания.
 
 Документация использованных интерфейсов: [Streamlit data_editor](https://docs.streamlit.io/develop/api-reference/data/st.data_editor), [Streamlit AppTest](https://docs.streamlit.io/develop/api-reference/app-testing/st.testing.v1.apptest), [SentenceTransformer](https://www.sbert.net/docs/package_reference/sentence_transformer/SentenceTransformer.html), [MiniBatchKMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MiniBatchKMeans.html), [VADER](https://github.com/cjhutto/vaderSentiment).
